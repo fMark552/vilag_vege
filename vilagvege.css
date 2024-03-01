@@ -1,0 +1,296 @@
+/** @format */
+
+p {
+	color: black;
+}
+
+.aha {
+	margin-top: 400px;
+}
+
+.aha1 {
+	background-color: black;
+	width: 25%;
+	height: 50px;
+	float: left;
+	transform: skewY(-10deg);
+	margin-top: 164px;
+}
+
+.aha2 {
+	background-color: black;
+	width: 25%;
+	height: 50px;
+	float: right;
+	transform: skewY(-10deg);
+}
+
+@media screen and (min-width: 350px) {
+	.aha1 {
+		width: 50%;
+		margin-top: 28px;
+	}
+	.aha2 {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 375px) {
+	.aha1 {
+		width: 50%;
+		margin-top: 28px;
+	}
+	.aha2 {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 400px) {
+	.aha1 {
+		width: 50%;
+		margin-top: 36px;
+	}
+	.aha2 {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 425px) {
+	.aha1 {
+		width: 50%;
+		margin-top: 38px;
+	}
+	.aha2 {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 450px) {
+	.aha1 {
+		width: 50%;
+		margin-top: 40px;
+	}
+	.aha2 {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 475px) {
+	.aha1 {
+		width: 50%;
+		margin-top: 42px;
+	}
+	.aha2 {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 500px) {
+	.aha1 {
+		width: 50%;
+		margin-top: 44px;
+	}
+	.aha2 {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 525px) {
+	.aha1 {
+		width: 50%;
+		margin-top: 46px;
+	}
+	.aha2 {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 550px) {
+	.aha1 {
+		width: 50%;
+		margin-top: 48px;
+	}
+	.aha2 {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 575px) {
+	.aha1 {
+		width: 50%;
+		margin-top: 50px;
+	}
+	.aha2 {
+		width: 50%;
+	}
+}
+
+@media screen and (min-width: 600px) {
+	.aha1 {
+		width: 49%;
+		margin-top: 53px;
+	}
+	.aha2 {
+		width: 49%;
+	}
+}
+
+@media screen and (min-width: 625px) {
+	.aha1 {
+		width: 49%;
+		margin-top: 55px;
+	}
+	.aha2 {
+		width: 49%;
+	}
+}
+
+@media screen and (min-width: 650px) {
+	.aha1 {
+		width: 47%;
+		margin-top: 60px;
+	}
+	.aha2 {
+		width: 47%;
+	}
+}
+
+@media screen and (min-width: 700px) {
+	.aha1 {
+		width: 45%;
+		margin-top: 65px;
+	}
+	.aha2 {
+		width: 45%;
+	}
+}
+
+@media screen and (min-width: 750px) {
+	.aha1 {
+		width: 43%;
+		margin-top: 71px;
+	}
+	.aha2 {
+		width: 43%;
+	}
+}
+
+@media screen and (min-width: 800px) {
+	.aha1 {
+		width: 41%;
+		margin-top: 78px;
+	}
+	.aha2 {
+		width: 41%;
+	}
+}
+
+@media screen and (min-width: 825px) {
+	.aha1 {
+		width: 41%;
+		margin-top: 80px;
+	}
+	.aha2 {
+		width: 41%;
+	}
+}
+
+@media screen and (min-width: 850px) {
+	.aha1 {
+		width: 39%;
+		margin-top: 84px;
+	}
+	.aha2 {
+		width: 39%;
+	}
+}
+
+@media screen and (min-width: 900px) {
+	.aha1 {
+		width: 37%;
+		margin-top: 90px;
+	}
+	.aha2 {
+		width: 37%;
+	}
+}
+
+@media screen and (min-width: 950px) {
+	.aha1 {
+		width: 35%;
+		margin-top: 95px;
+	}
+	.aha2 {
+		width: 35%;
+	}
+}
+
+@media screen and (min-width: 1000px) {
+	.aha1 {
+		width: 33%;
+		margin-top: 100px;
+	}
+	.aha2 {
+		width: 33%;
+	}
+}
+
+@media screen and (min-width: 1025px) {
+	.aha1 {
+		width: 33%;
+		margin-top: 105px;
+	}
+	.aha2 {
+		width: 33%;
+	}
+}
+
+@media screen and (min-width: 1050px) {
+	.aha1 {
+		width: 31%;
+		margin-top: 110px;
+	}
+	.aha2 {
+		width: 31%;
+	}
+}
+
+@media screen and (min-width: 1100px) {
+	.aha1 {
+		width: 29%;
+		margin-top: 115px;
+	}
+	.aha2 {
+		width: 29%;
+	}
+}
+
+@media screen and (min-width: 1150px) {
+	.aha1 {
+		width: 27%;
+		margin-top: 120px;
+	}
+	.aha2 {
+		width: 27%;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	.aha1 {
+		width: 25%;
+		margin-top: 125px;
+	}
+	.aha2 {
+		width: 25%;
+	}
+}
+
+@media screen and (min-width: 1225px) {
+	.aha1 {
+		width: 25%;
+		margin-top: 140px;
+	}
+	.aha2 {
+		width: 25%;
+	}
+}
